@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color:pink;
+    text-align: center;
+}
+
+header, footer{
+    background-color: white;
+    color: black;
+}
